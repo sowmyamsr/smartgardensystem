@@ -1,5 +1,5 @@
                                              SMART GARDENING SYSTEM
-IoT has made things smarter ,using IoT concepts I had made this mini project on Agriculture . Smart agriculture
+IoT has made things smarter ,using IoT concepts I had made this mini project on Agriculture .
 
 Title of the Project : Smart Gardening System
 
